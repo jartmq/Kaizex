@@ -1,6 +1,6 @@
 # Kaizex
 
-# Привет, я Kaizex 🐺
+# Hi there, I'm Kaizex 👋🏻
 
 ## 🛠️ Мой арсенал:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,10 +9,12 @@
 
 ---
 
-## 📈 GitHub Stats
-![Kaizex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaizex&show_icons=true&theme=tokyonight)
+<details>
+  <summary>📁 Название списка (нажми)</summary>
 
----
-
-## 🐍 Змея ползёт по репозиториям
-![Snake animation](https://github.com/Kaizex/Kaizex/blob/output/github-contribution-grid-snake.svg)
+  Сюда можно писать всё что угодно:  
+  - текст  
+  - картинки  
+  - код  
+  - даже другие списки  
+</details>
