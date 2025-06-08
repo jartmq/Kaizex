@@ -21,7 +21,6 @@
 
 
 
-
 # Hello there, I'm 𝐊𝐚𝐢𝐳𝐞𝐱 👋
 
 <div align="center">
@@ -59,9 +58,10 @@
 
 
 <h2>Frontend</h2>
-<p align="center">
- 
-</p>
+<div align="center">
+ <img src="[https://img.shields.io/badge/efef-%23E34F26?style=flat&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
+)">
+</div>
 
 <h2>Backend</h2>
 <h2>Other skills</h2>
