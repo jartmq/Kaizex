@@ -56,13 +56,16 @@
 
 
 <h1>~ Skills ~</h1>
-</br>
 
+
+<h2>Frontend</h2>
 <p align="center">
-
-
-
+ 
 </p>
+
+<h2>Backend</h2>
+<h2>Other skills</h2>
+
 </br>
 </br>
 </br>
@@ -88,4 +91,3 @@
 </br>
 </a>
 
-*************
