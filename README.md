@@ -59,12 +59,36 @@
 
 <h2>Frontend</h2>
 <div align="center">
- <img src="[https://img.shields.io/badge/efef-%23E34F26?style=flat&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
-)">
+ <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-%23007AAC?style=for-the-badge&logo=css&logoColor=white">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
 </div>
 
 <h2>Backend</h2>
+<div align="center">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+</div>
+
 <h2>Other skills</h2>
+<div align="center">
+ <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Audacity-%230000CC?style=for-the-badge&logo=audacity&logoColor=white">
+ <img src="https://img.shields.io/badge/Figma-%233A4259?style=for-the-badge&logo=figma&logoColor=white">
+ <img src="https://img.shields.io/badge/Davinci%20Resolve-%23233A51?style=for-the-badge&logo=davinciresolve&logoColor=white">
+</div>
 
 </br>
 </br>
