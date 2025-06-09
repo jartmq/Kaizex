@@ -45,7 +45,7 @@
 - ✨ Circuit design
 - ✨ Watching Anime
 - ✨ Web development
-- ✨ Desktop development
+- ✨ Desktop development on Electron (maybe i will make my applications on Tauri)
 
 
 </br>
