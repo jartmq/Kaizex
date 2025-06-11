@@ -71,7 +71,6 @@
  <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white">
  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white">
- <img src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white">
  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/Audacity-%230000CC?style=for-the-badge&logo=audacity&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-%233A4259?style=for-the-badge&logo=figma&logoColor=white">
@@ -85,9 +84,7 @@
 
 
 <h1>~ Contact me ~</h1>
-
-<p>
- </br>
+ <p><a href="https://discord.me/grechechca." target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://discord.me/grechechca." target="_blank">                                                    <img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 
 
 
