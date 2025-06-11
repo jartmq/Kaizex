@@ -84,7 +84,7 @@
 
 
 <h1>~ Contact me ~</h1>
- <p><a href="https://discord.me/grechechca." target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://t.me/kaizex" target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
+ <p><a href="https://discord.com/channels/@me/1130212096051773470" target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://t.me/kaizex" target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 
 </br>
 </br>
