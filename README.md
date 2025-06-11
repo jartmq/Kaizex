@@ -84,17 +84,8 @@
 
 
 <h1>~ Contact me ~</h1>
- <p><a href="https://discord.me/grechechca." target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://discord.me/grechechca." target="_blank">                                                    <img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
+ <p><a href="https://discord.me/grechechca." target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://t.me/kaizex" target="_blank"><img src="https://img.shields.io/badge/Kaizex%20-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 
-
-
-<div align="center">
-  <a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</div>
 </br>
 </br>
 </br>
