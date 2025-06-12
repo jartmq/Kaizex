@@ -20,7 +20,6 @@
 
 
 
-
 # Hello there, I'm 𝐊𝐚𝐢𝐳𝐞𝐱 👋
 
 <div align="center">
@@ -33,7 +32,7 @@
 
 <h1>~ About me ~</h1>
 
-### - I'm 14 years  old programmer from Mother Russia.
+### - I'm 14 years  old programmer from Mother Russia
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
